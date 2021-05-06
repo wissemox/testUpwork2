@@ -1,0 +1,80 @@
+.CoinBase {
+  display: flex;
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+.CoinBase p {
+  margin-top: 10px;
+  margin-right: 250px;
+  margin-left: 30px;
+  font-weight: 500;
+}
+.CoinBase button {
+  border: solid 2px #829ec6;
+  border-radius: 5px;
+  height: 40px;
+  width: 220px;
+  color: #364e9e;
+  font-weight: 500;
+}
+.CoinBase img {
+  margin-top: 13px;
+  width: 20px;
+  height: 20px;
+}
+.Coinbase {
+  display: flex;
+  width: 400px;
+}
+.Coinbase p {
+  margin-right: 0px;
+}
+.Coinbase img {
+  width: 25px;
+  margin-left: 20px;
+  height: 30px;
+}
+.GetFirestPage {
+  display: flex;
+}
+.GetFirestPage img {
+  position: absolute;
+  margin-left: 190px;
+}
+.MapItemCrypto {
+  margin-left: 110px;
+  background-color: #e6e7ec;
+  width: 1330px;
+}
+.SearchResult {
+  display: flex;
+}
+.SearchResult p {
+  color: #7a7a7a;
+  font-weight: 500;
+  padding-top: 40px;
+  padding-right: 50px;
+  padding-left: 30px;
+}
+.Url {
+  margin-left: 300px;
+}
+.MapCrypto {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.Crypto {
+  margin-left: 80px;
+}
+.Linkd {
+  margin-left: 390px;
+}
+.MapCrypto:hover {
+  padding-top: 10px;
+  color: white;
+  -webkit-transition: 1s;
+  padding-left: 10px;
+  height: 50px;
+  background-color: #1e40ae;
+}

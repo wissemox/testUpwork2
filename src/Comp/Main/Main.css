@@ -1,0 +1,78 @@
+.Text01 {
+  margin-top: 100px;
+
+  font-size: 40px;
+}
+.Text01 h3 {
+  font-weight: 500;
+  text-align: center;
+}
+.Text02 h3 {
+  padding-left: 20px;
+  font-weight: 500;
+  height: 40px;
+  font-size: 40px;
+}
+.Text03 h3 {
+  font-weight: 500;
+  font-size: 40px;
+}
+.Text03 {
+  height: 20px;
+}
+.BackGroundTest {
+  border-radius: 18px;
+  height: 15px;
+  margin-top: 14px;
+  width: 280px;
+  margin-left: 620px;
+}
+.Text5 {
+  width: 1000px;
+  text-align: center;
+  padding-left: 520px;
+  margin-top: 20px;
+}
+.Text5 button {
+  margin-top: 10px;
+  background-color: #6ac2e2;
+  border: none;
+  height: 40px;
+  border-radius: 5px;
+  width: 150px;
+  color: white;
+}
+.Text5 p {
+  color: blue;
+}
+.CreditCard img {
+  height: 30px;
+  width: 20px;
+}
+.CreditCard {
+  margin-left: 42%;
+  display: flex;
+}
+.CreditCard p {
+  padding-left: 10px;
+  color: blue;
+}
+.Text02 {
+  height: 50px;
+  margin-left: 630px;
+}
+.Text03 {
+  height: 25px;
+  margin-left: 610px;
+}
+.Text5 button {
+  margin-bottom: 20px;
+}
+.CreditCard {
+  height: 180px;
+}
+.Text03 {
+  background-image: url("Test05.png");
+  width: 300px;
+  height: 70px;
+}

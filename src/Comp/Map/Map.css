@@ -1,0 +1,35 @@
+.Map {
+  margin-top: 150px;
+  margin-bottom: 50px;
+}
+.Dazd {
+  margin-top: 150px;
+  width: 700px;
+  margin-bottom: 50px;
+}
+.Imagea img {
+  width: 1000px;
+}
+.Imagea {
+  width: 1400px;
+}
+.Background {
+  margin-left: 100px;
+}
+.Selectad {
+  margin-left: 150px;
+  width: 1000px;
+  margin-bottom: 20px;
+}
+
+.Monji {
+  display: flex;
+  width: 1300px;
+}
+#Image {
+  width: 1300px;
+}
+.Select5 {
+  display: flex;
+  width: 500px;
+}

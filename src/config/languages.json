@@ -1,0 +1,340 @@
+{   
+    "languages": [
+        {
+            "name": "Afrikaans",
+            "code": "af"
+        },
+        {
+            "name": "Albanian",
+            "code": "sq"
+        },
+        {
+            "name": "Amharic",
+            "code": "sm"
+        },
+        {
+            "name": "Arabic",
+            "code": "ar"
+        },
+        {
+            "name": "Azerbaijani",
+            "code": "az"
+        },
+        {
+            "name": "Basque",
+            "code": "eu"
+        },
+        {
+            "name": "Belarusian",
+            "code": "be"
+        },
+        {
+            "name": "Bengali",
+            "code": "bn"
+        },
+        {
+            "name": "Bihari",
+            "code": "bh"
+        },
+        {
+            "name": "Bosnian",
+            "code": "bs"
+        },
+        {
+            "name": "Bulgarian",
+            "code": "bg"
+        },
+        {
+            "name": "Catalan",
+            "code": "ca"
+        },
+        {
+            "name": "Chinese (Simplified)",
+            "code": "zh-CN"
+        },
+        {
+            "name": "Chinese (Traditional)",
+            "code": "zh-TW"
+        },
+        {
+            "name": "Croatian",
+            "code": "hr"
+        },
+        {
+            "name": "Czech",
+            "code": "cs"
+        },
+        {
+            "name": "Danish",
+            "code": "da"
+        },
+        {
+            "name": "Dutch",
+            "code": "nl"
+        },
+        {
+            "name": "English",
+            "code": "en"
+        },
+        {
+            "name": "Esperanto",
+            "code": "eo"
+        },
+        {
+            "name": "Estonian",
+            "code": "et"
+        },
+        {
+            "name": "Faroese",
+            "code": "fo"
+        },
+        {
+            "name": "Finnish",
+            "code": "fi"
+        },
+        {
+            "name": "French",
+            "code": "fr"
+        },
+        {
+            "name": "Frisian",
+            "code": "fy"
+        },
+        {
+            "name": "Galician",
+            "code": "gl"
+        },
+        {
+            "name": "Georgian",
+            "code": "ka"
+        },
+        {
+            "name": "German",
+            "code": "de"
+        },
+        {
+            "name": "Greek",
+            "code": "el"
+        },
+        {
+            "name": "Gujarati",
+            "code": "gu"
+        },
+        {
+            "name": "Hebrew",
+            "code": "iw"
+        },
+        {
+            "name": "Hindi",
+            "code": "hi"
+        },
+        {
+            "name": "Hungarian",
+            "code": "hu"
+        },
+        {
+            "name": "Icelandic",
+            "code": "is"
+        },
+        {
+            "name": "Indonesian",
+            "code": "id"
+        },
+        {
+            "name": "Interlingua",
+            "code": "ia"
+        },
+        {
+            "name": "Irish",
+            "code": "ga"
+        },
+        {
+            "name": "Italian",
+            "code": "it"
+        },
+        {
+            "name": "Japanese",
+            "code": "ja"
+        },
+        {
+            "name": "Javanese",
+            "code": "jw"
+        },
+        {
+            "name": "Kannada",
+            "code": "kn"
+        },
+        {
+            "name": "Korean",
+            "code": "ko"
+        },
+        {
+            "name": "Latin",
+            "code": "la"
+        },
+        {
+            "name": "Greek",
+            "code": "el"
+        },
+        {
+            "name": "Latvian",
+            "code": "lv"
+        },
+        {
+            "name": "Lithuanian",
+            "code": "lt"
+        },
+        {
+            "name": "Macedonian",
+            "code": "mk"
+        },
+        {
+            "name": "Malay",
+            "code": "ms"
+        },
+        {
+            "name": "Malayam",
+            "code": "ml"
+        },
+        {
+            "name": "Maltese",
+            "code": "mt"
+        },
+        {
+            "name": "Marathi",
+            "code": "mr"
+        },
+        {
+            "name": "Nepali",
+            "code": "ne"
+        },
+        {
+            "name": "Norwegian",
+            "code": "no"
+        },
+        {
+            "name": "Norwegian (Nynorsk)",
+            "code": "nn"
+        },
+        {
+            "name": "Occitan",
+            "code": "oc"
+        },
+        {
+            "name": "Persian",
+            "code": "fa"
+        },
+        {
+            "name": "Polish",
+            "code": "pl"
+        },
+        {
+            "name": "Portuguese (Brazil)",
+            "code": "pt-BR"
+        },
+        {
+            "name": "Portuguese (Portugal)",
+            "code": "pt-PT"
+        },
+        {
+            "name": "Punjabi",
+            "code": "pa"
+        },
+        {
+            "name": "Romanian",
+            "code": "ro"
+        },
+        {
+            "name": "Russian",
+            "code": "ru"
+        },
+        {
+            "name": "Scots Gaelic",
+            "code": "gd"
+        },
+        {
+            "name": "Serbian",
+            "code": "sr"
+        },
+        {
+            "name": "Sinhalese",
+            "code": "si"
+        },
+        {
+            "name": "Slovak",
+            "code": "sk"
+        },
+        {
+            "name": "Slovenian",
+            "code": "sl"
+        },
+        {
+            "name": "Spanish",
+            "code": "es"
+        },
+        {
+            "name": "Sudanese",
+            "code": "su"
+        },
+        {
+            "name": "Swahili",
+            "code": "sw"
+        },
+        {
+            "name": "Swedish",
+            "code": "sv"
+        },
+        {
+            "name": "Tagalog",
+            "code": "tl"
+        },
+        {
+            "name": "Tamil",
+            "code": "ta"
+        },
+        {
+            "name": "Telugu",
+            "code": "te"
+        },
+        {
+            "name": "Thai",
+            "code": "th"
+        },
+        {
+            "name": "Tigrinya",
+            "code": "ti"
+        },
+        {
+            "name": "Turkish",
+            "code": "tr"
+        },
+        {
+            "name": "Ukrainian",
+            "code": "uk"
+        },
+        {
+            "name": "Urdu",
+            "code": "ur"
+        },
+        {
+            "name": "Uzbek",
+            "code": "uz"
+        },
+        {
+            "name": "Vietnamese",
+            "code": "vi"
+        },
+        {
+            "name": "Welsh",
+            "code": "cy"
+        },
+        {
+            "name": "Xhosa",
+            "code": "xh"
+        },
+        {
+            "name": "Zulu",
+            "code": "zu"
+        }
+    ]
+}

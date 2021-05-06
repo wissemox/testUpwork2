@@ -1,0 +1,82 @@
+.SingUp {
+  margin-top: 50px;
+  margin-left: 600px;
+}
+.SingUp h1 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.SingUp p {
+  font-weight: 450;
+  font-size: 19px;
+}
+.Singup05 {
+  margin-top: 10px;
+  display: flex;
+}
+.Singup05 h3 {
+  padding-left: 23px;
+  font-size: 19px;
+  color: #b6b4b4;
+}
+.Inputd input {
+  border: solid 1px #b6b4b4;
+  width: 350px;
+  height: 35px;
+  border-radius: 5px;
+}
+.Inputd {
+  background-color: none;
+  margin-top: 30px;
+}
+::placeholder {
+  -webkit-transition: 2s;
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-left: 60px;
+}
+.Inputd {
+  display: flex;
+}
+.Inputd img {
+  margin-left: 20px;
+  margin-top: 10px;
+  position: absolute;
+}
+.Inputdd {
+  margin-top: 50px;
+}
+.Signup {
+  margin-top: 30px;
+  background-color: #06213f;
+  height: 40px;
+  border-radius: 5px;
+  width: 350px;
+}
+.Signup button {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 135px;
+}
+
+.TextBYClick {
+  width: 350px;
+  margin-top: 20px;
+  text-align: center;
+}
+.TextBYClick p {
+  color: #858e9e;
+  font-weight: 500;
+  padding-right: 20px;
+  font-size: 17px;
+  padding-left: 10px;
+}
+
+.Inputd img {
+  width: 30px;
+  margin-left: 16px;
+  margin-top: 5px;
+}

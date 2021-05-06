@@ -1,0 +1,51 @@
+.HomePageFlexBox {
+  display: flex;
+}
+.Borde {
+  border-bottom: solid 1px rgb(224, 224, 224);
+  height: 100px;
+}
+.HomePageFlexBox {
+  margin-top: 20px;
+  margin-left: 10%;
+}
+.HomePageFlexBox p {
+  padding-top: 27px;
+}
+.HomePageFlexBox button {
+  border: none;
+}
+.HomePageFlexBox h1 {
+  padding-top: 20px;
+  font-weight: 500;
+  width: 30px;
+  font-size: 35px;
+}
+.HomePageFlexBox {
+  height: 50px;
+}
+.ContactUs {
+  margin-left: 40%;
+}
+.ContactUs p {
+  padding-top: 35px;
+}
+.SignButton {
+  display: flex;
+  margin-left: 29%;
+}
+.SignButton button {
+  margin-top: 5px;
+  height: 50px;
+  border-radius: 5px;
+  width: 150px;
+  margin-left: 30px;
+  color: white;
+  background-color: #8dcee6;
+}
+.SignButton {
+  margin-top: 10px;
+}
+.SignButton button {
+  margin-top: 15px;
+}

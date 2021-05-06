@@ -1,0 +1,24 @@
+.trackin p {
+  font-size: 30px;
+  font-weight: 500;
+}
+.trackin01 {
+  text-align: center;
+}
+.NoCredit p {
+  font-size: 15px;
+  padding-top: 10px;
+  width: 1500px;
+  padding-left: 20px;
+}
+.trackin01 button {
+  background-color: #8daace;
+  border-radius: 5px;
+  color: white;
+  margin-top: 20px;
+  width: 180px;
+}
+.ALL {
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
